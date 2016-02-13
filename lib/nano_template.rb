@@ -42,7 +42,7 @@ class NanoTemplate
   end
 
   def escape(str)
-    str.gsub /'/, "\\'"
+    str.gsub(/'/) {"\\'"} # \' is regexp special char
   end
 
   def unescape(str)
