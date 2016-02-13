@@ -4,7 +4,8 @@
 [![Gem](https://img.shields.io/gem/dtv/nano_template.svg)](https://rubygems.org/gems/nano_template)
 [![Gemnasium](https://gemnasium.com/Narazaka/nano_template.svg)](https://gemnasium.com/Narazaka/nano_template)
 [![Inch CI](http://inch-ci.org/github/Narazaka/nano_template.svg)](http://inch-ci.org/github/Narazaka/nano_template)
-[![Build Status](https://travis-ci.org/Narazaka/nano_template.svg)](https://travis-ci.org/Narazaka/nano_template)
+[![Travis Build Status](https://travis-ci.org/Narazaka/nano_template.svg)](https://travis-ci.org/Narazaka/nano_template)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Narazaka/nano_template?svg=true)](https://ci.appveyor.com/project/Narazaka/nano-template)
 [![codecov.io](https://codecov.io/github/Narazaka/nano_template/coverage.svg?branch=master)](https://codecov.io/github/Narazaka/nano_template?branch=master)
 [![Code Climate](https://codeclimate.com/github/Narazaka/nano_template/badges/gpa.svg)](https://codeclimate.com/github/Narazaka/nano_template)
 
